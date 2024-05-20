@@ -55,7 +55,7 @@ button:active {
 }
 
 input {
- 
+    color: #6b0ec2;
     padding: 12px;
     border-radius: 8px;
     border: 1px solid #ccc;
