@@ -51,15 +51,18 @@ button:hover {
 
 button:active {
     font-size: 18px;
-    color: #ffffff;
+    color: #fc1f1f;
 }
 
 input {
-    color: violet;
+ 
     padding: 12px;
     border-radius: 8px;
     border: 1px solid #ccc;
     transition: border-color 0.3s, color 0.3s;
+}
+text {
+    color: #6b0ec2;
 }
 
 input:focus {
